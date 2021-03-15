@@ -20,7 +20,7 @@ you've just cloned!!
 ```bash
 > pkg install unzip 
 > unzip SELF-BOT.zip
-> mv SELF-BOT ~
+> cp -r SELF-BOT ~/
 > cd 
 > cd SELF-BOT
 > bash install.sh
