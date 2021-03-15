@@ -32,14 +32,14 @@ you've just cloned!!
 
 ### Prefix 
 ```bash
-7 (jika ingin ganti prefix : 7setprefix <optipnal>)
+7 
 ```
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Arya`](https://github.com/Arya-was)
 * [`MRG3P5`](https://github.com/MrG3P5)
-* [`RRuLL`](https://github.com/aru01)
+* [`RRuLL`](https://github.com/arl03)
 ## whatsapp number
 * [`WhatsApp`](wa.me/6285865781508)
 ### Donate
