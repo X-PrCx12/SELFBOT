@@ -14,8 +14,6 @@
 ```
 
 ## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
 
 ```bash
 > pkg install unzip 
@@ -40,8 +38,8 @@ you've just cloned!!
 * [`Arya`](https://github.com/Arya-was)
 * [`MRG3P5`](https://github.com/MrG3P5)
 * [`RRuLL`](https://github.com/arl03)
-## whatsapp number
-* [`WhatsApp`](wa.me/6285865781508)
+### contact me
+wa.me/6285865781508)
 ### Donate
 * [`Saweria`](https://saweria.co/VannSGaming01)
 * [`Gopay : +628812904283`]
