@@ -39,7 +39,7 @@
 * [`MRG3P5`](https://github.com/MrG3P5)
 * [`RRuLL`](https://github.com/arl03)
 ### contact me
-wa.me/6285865781508)
+wa.me/6285865781508
 ### Donate
 * [`Saweria`](https://saweria.co/VannSGaming01)
 * [`Gopay : +628812904283`]
