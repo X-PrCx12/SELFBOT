@@ -29,6 +29,11 @@ you've just cloned!!
 ```bash
 > npm start 
 ```
+
+### Prefix 
+```bash
+7 / 7help
+```
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
