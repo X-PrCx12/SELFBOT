@@ -32,7 +32,7 @@ you've just cloned!!
 
 ### Prefix 
 ```bash
-7 / 7help
+7 (jika ingin ganti prefix : 7setprefix <optipnal>)
 ```
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
