@@ -39,7 +39,7 @@ you've just cloned!!
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Arya`](https://github.com/Arya-was)
 * [`MRG3P5`](https://github.com/MrG3P5)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`RRuLL`](https://github.com/aru01)
 ## whatsapp number
 * [`WhatsApp`](wa.me/6285865781508)
 ### Donate
