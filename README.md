@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/R6Z6B4H/6b8946d38b6b.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
+<img src="https://i.ibb.co/F840Pxw/a0fb189b94c7.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="SELF - BOT" src="https://img.shields.io/badge/ SELF BOT TERMUX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -19,7 +19,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/Ivan-MLN/SELF-BOT
+> git clone https://github.com/Ivan-MLN/SELF-BOT.git
 ```
 
 ## Install the dependencies:
@@ -43,16 +43,16 @@ prefix: "z"
 ```
 ## Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/Arya-was"><img alt="GitHub" src="https://img.shields.io/badge/Arya%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/MrG3P5"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/arl03"><img alt="GitHub" src="https://img.shields.io/badge/RRuLL%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=yellow"/></a>
+* <a href="https://github.com/Arya-was"><img alt="GitHub" src="https://img.shields.io/badge/Arya%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=blue"/></a>
+* <a href="https://github.com/MrG3P5"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=red"/></a>
+* <a href="https://github.com/arl03"><img alt="GitHub" src="https://img.shields.io/badge/RRuLL%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=pink"/></a>
 
 ### contact me
 * <a href="https://wa.me/6285865781508"><img alt="WhatsApp" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Group
-* <a href="https://chat.whatsapp.com/FMWMuUduZfEJvMBoSqPyg8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/FMWMuUduZfEJvMBoSqPyg8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=dark"/></a>
 
 ### Donate
 * <a href="https://saweria.co/donate/VannSGaming01"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
