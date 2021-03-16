@@ -48,7 +48,7 @@
 * [`MRG3P5`](https://github.com/MrG3P5)
 * [`RRuLL`](https://github.com/arl03)
 ### contact me
-* <a href="https://wa.me/6285865781508"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/6285865781508"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Group
 * <a href="https://chat.whatsapp.com/FMWMuUduZfEJvMBoSqPyg8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
