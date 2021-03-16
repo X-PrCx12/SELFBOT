@@ -55,4 +55,5 @@ prefix: "z"
 * <a href="https://chat.whatsapp.com/FMWMuUduZfEJvMBoSqPyg8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red"/></a>
 
 ### Donate
-* <a href="https://saweria.co/donate/VannSGaming01"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=purpple" /></a>
+* <a href="https://saweria.co/donate/VannSGaming01"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=purp
+ple" /></a>
