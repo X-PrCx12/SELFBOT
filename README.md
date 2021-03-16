@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/wLw5ck3/d897c5f7172f.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
+<img src="https://i.ibb.co/R6Z6B4H/6b8946d38b6b.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="SELF - BOT" src="https://img.shields.io/badge/ SELF BOT TERMUX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
