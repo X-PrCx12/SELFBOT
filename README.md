@@ -42,18 +42,17 @@
 7 
 ```
 ## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Arya`](https://github.com/Arya-was)
-* [`MRG3P5`](https://github.com/MrG3P5)
-* [`RRuLL`](https://github.com/arl03)
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/Arya-was"><img alt="GitHub" src="https://img.shields.io/badge/Arya%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/MrG3P5"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/arl03"><img alt="GitHub" src="https://img.shields.io/badge/RRuLL%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+
 ### contact me
-* <a href="https://wa.me/6285865781508"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/6285865781508"><img alt="WhatsApp" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Group
 * <a href="https://chat.whatsapp.com/FMWMuUduZfEJvMBoSqPyg8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
 * <a href="https://saweria.co/donate/VannSGaming01"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-* [`Gopay : +628812904283`]
-* [`Pulsa : +628812904283`]
