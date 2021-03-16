@@ -56,4 +56,3 @@ prefix: "z"
 
 ### Donate
 * <a href="https://saweria.co/donate/VannSGaming01"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=yellow"/></a>
-ple" /></a>
