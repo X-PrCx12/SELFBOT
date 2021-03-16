@@ -34,12 +34,12 @@
 
 ### Usage
 ```bash
-> node index.js
+> npm start
 ```
 
 ### Prefix 
 ```bash
-7 
+prefix: "z"
 ```
 ## Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
