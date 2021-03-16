@@ -1,4 +1,13 @@
 <p align="center">
+<img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="SELF - BOT" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Ivan-MLN"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
 <aREADME.md href="https://github.com/Ivan-MLN/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ivan-MLN?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ivan-MLN/SELF-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ivan-MLN/SELF-BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/Ivan-MLN/SELF-BOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Ivan-MLN/SELF-BOT?color=red&style=flat-square"></a>
@@ -39,8 +48,12 @@
 * [`MRG3P5`](https://github.com/MrG3P5)
 * [`RRuLL`](https://github.com/arl03)
 ### contact me
-* https://wa.me/6285865781508
+* <a href="https://wa.me/6285865781508"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+## Group
+* <a href="https://chat.whatsapp.com/FMWMuUduZfEJvMBoSqPyg8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 ### Donate
-* [`Saweria`](https://saweria.co/VannSGaming01)
+* <a href="https://saweria.co/donate/VannSGaming01"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 * [`Gopay : +628812904283`]
 * [`Pulsa : +628812904283`]
