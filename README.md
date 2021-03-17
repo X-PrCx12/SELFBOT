@@ -25,9 +25,6 @@
 ## Install the dependencies:
 
 ```bash
-> pkg install unzip 
-> cd SELF-BOT
-> unzip SELF-BOT.zip
 > cd SELF-BOT
 > bash install.sh
 ```
