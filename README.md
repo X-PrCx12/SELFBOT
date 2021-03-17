@@ -19,13 +19,13 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/Ivan-MLN/SELF-BOT.git
+> git clone https://github.com/Ivan-MLN/SELFBOT.git
 ```
 
 ## Install the dependencies:
 
 ```bash
-> cd SELF-BOT
+> cd SELFBOT
 > bash install.sh
 ```
 
